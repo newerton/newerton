@@ -1,4 +1,4 @@
-Hi! My name is Newerton Vargas de Araujo and I'm experienced (+15 years) fullstack developer, living in Brazil and working remotely for companies around the world.
+Hi! My name is Newerton Vargas de Araujo and I'm experienced (+16 years) fullstack developer, living in Brazil and working remotely for companies around the world.
 I have good experience in front-end, back-end, devops and testing.
 
 New skill?
