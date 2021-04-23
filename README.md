@@ -7,6 +7,14 @@
 - 👨‍💻 All of my projects are available at [https://newerton.com](https://newerton.com)
 - 💬 Ask me about **all about technology :)**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/newerton" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/newerton/newerton/master/images/linkedin/linkedin-original.svg" alt="newerton" height="30" width="40" />
+  </a>
+</p>
+
+
 <!--
 **newerton/newerton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
