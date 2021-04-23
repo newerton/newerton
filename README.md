@@ -7,14 +7,14 @@
 - 👨‍💻 All of my projects are available at [https://newerton.com](https://newerton.com)
 - 💬 Ask me about **all about technology :)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/newerton" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/newerton/newerton/master/images/linkedin/linkedin-original.svg" alt="newerton" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> 
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/newerton/newerton/master/images/php/php-original.svg" alt="php" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.yiiframework.com/" target="_blank"> <img src="https://raw.githubusercontent.com/newerton/newerton/master/images/yii/yii-original-wordmark.svg" alt="laravel" width="40" height="40"/> </a> &nbsp;
@@ -27,6 +27,11 @@
   <a href="https://flutter.dev" target="_blank"> <img src="https://raw.githubusercontent.com/newerton/newerton/master/images/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/newerton/newerton/master/images/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> &nbsp;
 </p>
+
+<h3 align="left">Stats</h3>
+
+![Newerton GitHub stats](https://github-readme-stats.vercel.app/api?username=newerton&theme=jolly&show_icons=true) &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newerton&theme=jolly&&layout=compact)
 
 <!--
 **newerton/newerton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
