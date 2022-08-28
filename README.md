@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer from Brazil</h3>
 
 - 😻 I’m currently working on a personal project **React, React Native, Next.js and Node.js 💜**
-- 🏢 I’m currently working on a business project **Vue.js, Vuetify, Nuxt.js and K8s**
+- 🏢 I’m currently working on a business project **NestJs, Next.js, TailwindCss, Material UI and Github Actions (CI/CD)**
 - 🌱 I’m currently learning **Flutter, Strapi, Elixir, K8s, Apache Kafka and Blockchain**
 - 👨‍💻 All of my projects are available at [https://newerton.com](https://newerton.com)
 - 💬 Ask me about **all about technology :)**
