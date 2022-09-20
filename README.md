@@ -16,7 +16,7 @@
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,php,nodejs,typescript,nestjs,nextjs,react,prisma,graphql,tailwind,flutter,figma,firebase,bots,python,git&perline=5)](https://newerton.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,php,nodejs,typescript,nestjs,nextjs,react,prisma,graphql,tailwind,flutter,figma,firebase,bots,python,git&perline=5)](https://newerton.com)
 
 ### Stats
 
